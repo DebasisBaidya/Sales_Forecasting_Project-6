@@ -66,10 +66,10 @@ def feature_importance():
     st.pyplot(plt)
 
 # Displaying the dashboard title
-st.markdown('<h1 style="text-align:center;">📂 LSTM Sales Prediction Dashboard - File Upload</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="text-align:center;">📂 LSTM Rossmann Pharmaceuticals Sales Forecasting Dashboard - Upload File to Predict</h1>', unsafe_allow_html=True)
 
 # Displaying instructions for required columns in the uploaded file
-st.markdown('<div style="text-align: center; border: 1px solid #ddd; padding: 10px; margin-bottom: 20px;">Required Columns: Id, Store, DayOfWeek, Open, Promo, StateHoliday, SchoolHoliday, Date i.e. Test Data</div>', unsafe_allow_html=True)
+st.markdown('<div style="text-align: center; border: 1px solid #ddd; padding: 10px; margin-bottom: 20px;">Required Columns: Id, Store, DayOfWeek, Open, Promo, StateHoliday, SchoolHoliday, Date as in Test Data</div>', unsafe_allow_html=True)
 
 # File uploader to accept CSV or Excel files
 uploaded_file = st.file_uploader('', type=['csv', 'xlsx'])
