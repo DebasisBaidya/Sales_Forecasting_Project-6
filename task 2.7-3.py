@@ -1,13 +1,4 @@
 
-import streamlit as st
-import pandas as pd
-import numpy as np
-import pickle
-from tensorflow import keras
-from datetime import datetime, timedelta
-import matplotlib.pyplot as plt
-import seaborn as sns
-
 # Setting up the Streamlit page with title and wide layout
 st.set_page_config(page_title='📂 LSTM Sales Prediction - File Upload', layout='wide')
 
