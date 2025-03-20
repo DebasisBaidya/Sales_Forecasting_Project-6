@@ -5,7 +5,8 @@ import pickle
 from tensorflow import keras
 from sklearn.preprocessing import MinMaxScaler
 from datetime import datetime, timedelta
-
+import matplotlib as plt
+import seaborn as sns
 
 # Setting up the Streamlit page with title and wide layout
 st.set_page_config(page_title='📂 LSTM Sales Prediction - File Upload', layout='wide')
@@ -68,7 +69,7 @@ def feature_importance():
 st.markdown('<h1 style="text-align:center;">📂 LSTM Sales Prediction Dashboard - File Upload</h1>', unsafe_allow_html=True)
 
 # Displaying instructions for required columns in the uploaded file
-st.markdown('<div style="text-align: center; border: 1px solid #ddd; padding: 10px; margin-bottom: 20px;">Required Columns: Id, Store, DayOfWeek, Open, Promo, StateHoliday, SchoolHoliday, Date</div>', unsafe_allow_html=True)
+st.markdown('<div style="text-align: center; border: 1px solid #ddd; padding: 10px; margin-bottom: 20px;">Required Columns: Id, Store, DayOfWeek, Open, Promo, StateHoliday, SchoolHoliday, Date i.e. Test Data</div>', unsafe_allow_html=True)
 
 # File uploader to accept CSV or Excel files
 uploaded_file = st.file_uploader('', type=['csv', 'xlsx'])
