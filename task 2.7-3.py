@@ -3,6 +3,7 @@ import pandas as pd
 import numpy as np
 import pickle
 from tensorflow import keras
+from sklearn.preprocessing import MinMaxScaler
 from datetime import datetime, timedelta
 
 
