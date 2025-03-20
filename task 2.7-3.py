@@ -5,7 +5,6 @@ import numpy as np
 import pickle
 from tensorflow import keras
 from datetime import datetime, timedelta
-pip install scikit-learn
 from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 import seaborn as sns
