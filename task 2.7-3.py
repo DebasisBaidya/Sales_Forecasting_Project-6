@@ -1,3 +1,4 @@
+import streamlit as st
 
 # Setting up the Streamlit page with title and wide layout
 st.set_page_config(page_title='📂 LSTM Sales Prediction - File Upload', layout='wide')
