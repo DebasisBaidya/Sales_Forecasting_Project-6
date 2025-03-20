@@ -1,5 +1,5 @@
 streamlit
-tensorflow==2.10.0
+tensorflow==2.1.0
 from tensorflow import keras
 pandas
 numpy
