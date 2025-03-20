@@ -5,7 +5,7 @@ import pickle
 from tensorflow import keras
 from sklearn.preprocessing import MinMaxScaler
 from datetime import datetime, timedelta
-import matplotlib as plt
+import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Setting up the Streamlit page with title and wide layout
