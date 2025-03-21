@@ -29,12 +29,12 @@ In this step:
 - The dashboard includes interactive graphs for predicted sales trends and a feature importance visualization (generated using random values as a placeholder).
 
 ## Features
-✅ Simple interface for easy use, Excel or CSV File upload i.e. Test Data
-✅ Uploaded Data Preview
-✅ Displays the last available date with Uploaded File Name from uploaded data for better context
-✅ Predicts sales for the next 6 weeks
-✅ CSV download option for predicted results
-✅ Interactive visualizations for better insights i.e. Prediction Graph & Feature Importance Dashboard
+- ✅ Simple interface for easy use, Excel or CSV File upload i.e. Test Data
+- ✅ Uploaded Data Preview
+- ✅ Displays the last available date with Uploaded File Name from uploaded data for better context
+- ✅ Predicts sales for the next 6 weeks
+- ✅ CSV download option for predicted results
+- ✅ Interactive visualizations for better insights i.e. Prediction Graph & Feature Importance Dashboard
 
 ## How to Use
 1. Upload a CSV/Excel file with the required columns: `Id`, `Store`, `DayOfWeek`, `Open`, `Promo`, `StateHoliday`, `SchoolHoliday`, `Date`.
