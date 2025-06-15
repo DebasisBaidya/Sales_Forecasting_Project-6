@@ -34,8 +34,8 @@ Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit A
 ### 🧹 Data Preprocessing & EDA (`Task 1.ipynb`)
 
 - 🧽 Cleaned missing values, checked consistency  
-- 📈 Performed EDA to identify patterns in sales  
-- 📊 Explored features like `DayOfWeek`, `Promo`, and `StateHoliday`
+- 📈 Performed EDA to identify patterns, trends, insights crucial in sales for model training.
+- 📊 Explored features like `DayOfWeek`, `Promo`, and `StateHoliday` to assess their impact on sales.
 
 ---
 
@@ -43,7 +43,7 @@ Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit A
 ### 🤖 Machine Learning Model (`Task 2-2.5 ML.ipynb`)
 
 - 🧠 Trained multiple regression models  
-- 📉 Evaluated using RMSE & MAE  
+- 📉 The best-performing model was selected based on evaluation metrics such as RMSE and MAE.  
 - 🔍 Identified most important features driving sales  
 
 ---
@@ -51,7 +51,7 @@ Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit A
 ## 🔹 Step 3:  
 ### 🧠 Deep Learning with LSTM (`Task 2.6 DL.ipynb`)
 
-- ⏳ Used LSTM neural network to capture time-based patterns  
+- ⏳ Used LSTM (Long Short-Term Memory) neural network to capture time-based patterns & to enhance prediction accuracy by capturing temporal dependencies in the sales data. 
 - ⚡ Achieved enhanced performance over ML models  
 
 ---
@@ -59,7 +59,8 @@ Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit A
 ## 🔹 Step 4:  
 ### 📲 Streamlit App Deployment (`Task 2.7-3.py`)
 
-- 🖥️ Built interactive dashboard with input file support  
+- 🖥️ Built interactive dashboard with input file support for seamless user interaction.
+- ⛲ Users can upload CSV or Excel files with necessary data fields, receive instant predictions, and visualize results.
 - 📆 Predicts future sales and shows trend graphs  
 - 💾 Exports predictions as downloadable CSV  
 
@@ -97,12 +98,11 @@ Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit A
 ## 👤 About Me
 
 **Debasis Baidya**  
-💼 Senior MIS | 📊 Data Science Intern  
-✅ Automated 80%+ manual processes at work  
-🧠 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
-
+Senior MIS | Data Science Intern  
+✅ Automated 80%+ of manual processes at my workplace  
+📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
 <p align="left">
-  📫 <strong>Let’s connect:</strong>&nbsp;
+  📫 <strong>Connect with me:</strong>&nbsp;
 
   <a href="https://www.linkedin.com/in/debasisbaidya">
     <img src="https://img.shields.io/badge/LinkedIn-View_Profile-blue?logo=linkedin&logoColor=white" />
