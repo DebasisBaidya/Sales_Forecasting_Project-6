@@ -14,7 +14,7 @@
 🔗 [**Embed Code**](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/?embed_options=show_toolbar,show_padding,show_footer,light_theme,show_colored_line)
 
 📷 **Preview**  
-![Streamlit Dashboard](assets/Streamlit%20Dashboard%20with%20live%20prediction%20based%20on%20input.png)
+![Streamlit Dashboard](Hosted Streamlit Dashboard.png)
 
 ---
 
