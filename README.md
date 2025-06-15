@@ -10,11 +10,17 @@
 
 ## 📊 Streamlit Deployed Dashboard
 
-🔗 [**Live Dashboard**](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/)  
-🔗 [**Embed Code**](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/?embed_options=show_toolbar,show_padding,show_footer,light_theme,show_colored_line)
+🔗 **Live Tool/App**: [Streamlit Link](https://salesforecastingproject-6-baycznp8znqyhupggduqbm.streamlit.app/)  
 
-📷 **Preview**  
-![Streamlit Dashboard](Hosted Streamlit Dashboard.png)
+---
+
+## 📸 App Preview
+
+![App Screenshot](Hosted Streamlit Dashboard.png)
+
+> Screenshot of Hosted Streamlit Dashboard.
+
+---
 
 ---
 
