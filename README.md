@@ -1,4 +1,5 @@
-# 🏬 Sales Forecasting Across Multiple Retail Stores for 📦 **Rossmann Pharmaceuticals**  
+# 🏬 Sales Forecasting Across Multiple Retail Stores for 
+📦 **Rossmann Pharmaceuticals**  
 
 [![Python](https://img.shields.io/badge/Python-Used-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red?logo=streamlit&logoColor=white)](https://streamlit.io/)
