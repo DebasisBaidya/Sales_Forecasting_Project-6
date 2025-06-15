@@ -14,16 +14,6 @@
 
 ---
 
-## 📸 App Preview
-
-![App Screenshot](Hosted Streamlit Dashboard.png)
-
-> Screenshot of Hosted Streamlit Dashboard.
-
----
-
----
-
 ## 🧾 Project Overview
 
 This project forecasts sales across multiple retail outlets using Machine Learning and Deep Learning. It helps businesses plan better using future sales predictions and key trend insights.
@@ -69,6 +59,14 @@ Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit A
 - ⛲ Users can upload CSV or Excel files with necessary data fields, receive instant predictions, and visualize results.
 - 📆 Predicts future sales and shows trend graphs  
 - 💾 Exports predictions as downloadable CSV  
+
+---
+
+## 📸 App Preview
+
+![App Screenshot](Hosted Streamlit Dashboard.png)
+
+> Screenshot of Hosted Streamlit Dashboard.
 
 ---
 
