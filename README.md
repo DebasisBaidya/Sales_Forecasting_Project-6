@@ -64,7 +64,7 @@ Data Preprocessing ➜ Machine Learning ➜ Deep Learning (LSTM) ➜ Streamlit A
 
 ## 📸 App Preview
 
-![App Screenshot](Hosted Streamlit Dashboard.png)
+![App Screenshot](Hosted%20Streamlit%20Dashboard.png)
 
 > Screenshot of Hosted Streamlit Dashboard.
 
